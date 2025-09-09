@@ -4,17 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabila-ansari&label=Profile%20views&color=0e75b6&style=flat" alt="nabila-ansari" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabila-ansari" alt="nabila-ansari" /></a> </p>
-
+![Nabila's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nabila-ansari&bg_color=0f2d3d&color=ffffff&line=ff69b4&point=f9d423&area=true&hide_border=true)
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" align="right" width="300" alter="coding">
-
 
 - 🌱 I’m currently learning **Working In Dowry Marketplace Project**
 
 - 👯 Ask me about basics Of Languages **Java C C++ SQL XML Firebase,Basic HTML CSS**
+- ### 🚀 Featured Projects
 - [Dowry Shopping App](https://github.com/Nabila-Ansari/VowEssentialDowryShoping) – Android app with Firebase integration
 - [Portfolio Website](https://github.com/nabila-ansari) – Personal portfolio project  
-- 
   
 - 📝 I regularly write articles on [Poetry](Poetry)
 
