@@ -13,8 +13,8 @@
 - 👯 Ask me about basics Of Languages **Java C C++ SQL XML Firebase,Basic HTML CSS**
 - ### 🚀 Featured Projects
 - [Dowry Shopping App](https://github.com/Nabila-Ansari/VowEssentialDowryShoping) – Android app with Firebase integration
-- [Portfolio Website](https://github.com/nabila-ansari) – Personal portfolio project  
-  
+- [Portfolio Website](https://github.com/nabila-ansari) – Personal portfolio project
+- ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 - 📝 I regularly write articles on [Poetry](Poetry)
 
 - 💬 Ask me about **Teaching Skils**
