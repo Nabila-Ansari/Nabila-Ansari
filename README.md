@@ -9,10 +9,13 @@
 <img src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" align="right" width="300" alter="coding">
 
 
-- 🌱 I’m currently learning **Ai learning, SEO**
+- 🌱 I’m currently learning **Working In Dowry Marketplace Project**
 
-- 👯 Ask me about basics Of Languages **Java C C++ SQL HTML CSS JavaScript**
-
+- 👯 Ask me about basics Of Languages **Java C C++ SQL XML Firebase,Basic HTML CSS**
+- [Dowry Shopping App](https://github.com/Nabila-Ansari/VowEssentialDowryShoping) – Android app with Firebase integration
+- [Portfolio Website](https://github.com/nabila-ansari) – Personal portfolio project  
+- 
+  
 - 📝 I regularly write articles on [Poetry](Poetry)
 
 - 💬 Ask me about **Teaching Skils**
